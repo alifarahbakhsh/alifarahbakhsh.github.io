@@ -31,8 +31,5 @@ IEEE INFOCOM 2022.
 * Data Communication Networks, TA (Winter 2018, Sharif University of Technology).
 
 ~~~
-"It must be considered that there is nothing more  
-difficult to carry out, nor more doubtful of success,  
-nor more dangerous to handle, than to initiate a new  
-order of things.", Machiavelli.
+''We are what we repeatedly do. Excellence, then, is not an act, but a habit.'', Aristotle.
 ~~~

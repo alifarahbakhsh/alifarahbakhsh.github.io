@@ -21,7 +21,9 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        {% if site.show_description %}
         <p><i><b>{{ site.description | default: site.github.project_tagline }}</b></i></p>
+        {% endif %}
 
         {% if site.github.is_project_page %}
         <p><a href="https://github.com/MrAliFar"><img src="{{site.gitcat}}" width="20" height="20"></a>

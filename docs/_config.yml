@@ -39,6 +39,7 @@ plugins:
 
 #show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 show_downloads: false
+show_description: false
 logo: assets/me.jpg
 gitcat: assets/github-mark.png
 scholar: assets/scholar.png
